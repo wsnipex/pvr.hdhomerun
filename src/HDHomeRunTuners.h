@@ -25,7 +25,7 @@
 
 #include "client.h"
 #include <platform/threads/mutex.h>
-#include <hdhomerun/hdhomerun.h>
+#include <hdhomerun.h>
 #include <json/json.h>
 
 class HDHomeRunTuners
